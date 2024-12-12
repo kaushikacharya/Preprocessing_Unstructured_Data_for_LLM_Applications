@@ -15,4 +15,5 @@ This repository contains
 
 |#|     Lesson  |   Description   |
 |-|-------------|-----------------|
-|0|[Introduction](./notes/Lesson_0.md)|Learnings from this course|
+|0|[Introduction](./notes/Lesson_0.md)|<ul><li>Learnings from this course</li></ul>|
+|1|[Overview of LLM Data Preprocessing](./notes/Lesson_1.md)|<ul><li>Explains importance and challenges in building LLM applications that uses data from different sources with diverse range of file formats and structures.</li></ul>|
