@@ -20,9 +20,15 @@ This repository contains
 |0|[Introduction](./notes/Lesson_0.md)|<ul><li>Learnings from this course</li></ul>|
 |1|[Overview of LLM Data Preprocessing](./notes/Lesson_1.md)|<ul><li>Explains importance and challenges in building LLM applications that uses data from different sources with diverse range of file formats and structures.</li></ul>|
 |2|[Normalizing the Content](./notes/Lesson_2.md)|<ul><li>Extract and normalize content from diverse range of document types.</li></ul>|
+|3|[Metadata Extraction and Chunking](./notes/Lesson_3.md)|<ul><li>Enrich extracted content with metadata</li><li>Hybrid Search using metadata</li><li>Chunking using document elements</li></ul>|
 
 ## Assignments
 
   |Lesson|         Assignment        |   Description   |
   |-------|---------------------------|-----------------|
   |#2|[Normalizing the Content](./notes/Lesson_2.md#notebook)|<ul><li>Extract and normalize content from HTML, Powerpoint and PDF</li></ul>|
+  |#3|[Metadata Extraction and Chunking](./notes/Lesson_3.md#notebook)|<ul><li>Extract metadata (chapter) on an e-book on Winter sports</li><li>Perform hybrid search using metadata as filter</li><li>Chunk contents based on `Title`</li></ul>|
+
+## Related Courses
+
+Please visit my [Github page](https://kaushikacharya.github.io/courses/#generative-ai--large-language-models-llm) for other Generative AI/ LLM courses.
