@@ -14,6 +14,9 @@ class Utils:
     
     def get_dlai_url(self):
         return os.getenv("DLAI_API_URL")
+    
+    def get_openai_api_key(self):
+        return os.getenv("OPENAI_API_KEY")
 
 class upld_file:
     def __init__(self, upload_dir):
