@@ -21,7 +21,8 @@ This repository contains
 |1|[Overview of LLM Data Preprocessing](./notes/Lesson_1.md)|<ul><li>Explains importance and challenges in building LLM applications that uses data from different sources with diverse range of file formats and structures.</li></ul>|
 |2|[Normalizing the Content](./notes/Lesson_2.md)|<ul><li>Extract and normalize content from diverse range of document types.</li></ul>|
 |3|[Metadata Extraction and Chunking](./notes/Lesson_3.md)|<ul><li>Enrich extracted content with metadata</li><li>Hybrid Search using metadata</li><li>Chunking using document elements</li></ul>|
-|4|[Preprocessing PDFs and Images](./notes/Lesson_4.md)|<ul><li></li>Document Image Analysis techniques: (a) Document Layout Detection (b) Vision Transformers</li></ul>|
+|4|[Preprocessing PDFs and Images](./notes/Lesson_4.md)|<ul><li>**Document Image Analysis** techniques: (a) Document Layout Detection (b) Vision Transformers</li></ul>|
+|5|[Extracting Tables](./notes/Lesson_5.md)|<ul><li>Extract tables from PDF documents and infer their structures</li></ul>|
 
 ## Assignments
 
@@ -30,6 +31,7 @@ This repository contains
   |#2|[Normalizing the Content](./notes/Lesson_2.md#notebook)|<ul><li>Extract and normalize content from HTML, Powerpoint and PDF</li></ul>|
   |#3|[Metadata Extraction and Chunking](./notes/Lesson_3.md#notebook)|<ul><li>Extract metadata (chapter) on an e-book on Winter sports</li><li>Perform hybrid search using metadata as filter</li><li>Chunk contents based on `Title`</li></ul>|
   |#4|[Preprocessing PDFs and Images](./notes/Lesson_4.md#notebook)|<ul><li>Rule-based Document processing (HTML)</li><li>Document processing (PDF) by a) extracting text directly b) Document layout detection</li></ul>|
+  |#5|[Extracting Tables](./notes/Lesson_5.md#notebook)|<ul><li>Extract tables from PDF document and infer their structures using yolox model</li></ul>|
 
 ## Related Courses
 
