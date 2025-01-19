@@ -26,3 +26,17 @@
       - [LangChain discussion thread](https://github.com/langchain-ai/langchain/issues/8556)
 - How are "sources" returned along with response?
   - [`combine_prompt`](https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/chains/qa_with_sources/map_reduce_prompt.py) used in [`_load_map_reduce_chain`](https://api.python.langchain.com/en/latest/_modules/langchain/chains/qa_with_sources/loading.html) function uses prompt template mentioning `create a final answer with references ("SOURCES")`.
+
+## Related Courses
+
+- [Building Applications with Vector Databases](https://github.com/kaushikacharya/Building_Applications_with_Vector_Databases)
+  - [Retrieval Augmented Generation over Wikipedia sub dataset](https://github.com/kaushikacharya/Building_Applications_with_Vector_Databases/notes/Lesson_2.md#notebook)
+    - Vector Database: Pinecone
+    - Text Embedding model: text-embedding-ada-002
+  - [Multimodal Hybrid Search](https://github.com/kaushikacharya/Building_Applications_with_Vector_Databases/notes/Lesson_4.md#notebook)
+    - Dataset: Fashion product images and descriptive text
+    - Vector Database: Pinecone
+    - Embeddings:
+      - Dense: CLIP model creates embedding over images
+      - Sparse: BM25 encoding over product display name
+    - Hybrid search created using weighted sum of Dense and Sparse embeddings
