@@ -36,6 +36,11 @@ This repository contains
   |#5|[Extracting Tables](./notes/Lesson_5.md#notebook)|<ul><li>Extract tables from PDF document and infer their structures using `yolox` model</li></ul>|
   |#6|[Build Your Own RAG Bot](./notes/Lesson_6.md#notebook)|<ul><li>Build RAG bot on multi-modal data (PDF, PPT, Markdown)</li><li>Filter headers and references elements from DoNUT paper (PDF)</li><li>Utilize LangChain's Question Answer with Sources chain</li></ul>|
 
+## Certificate
+
+- [Course Completion Certificate](https://kaushikacharya.github.io/assets/certificates/DeepLearning_ai_Preprocessing_Unstructured_Data_for_LLM_Applications.pdf)
+- Issued on Jan 2025
+
 ## Related Courses
 
 Please visit my [Github page](https://kaushikacharya.github.io/courses/#generative-ai--large-language-models-llm) for other Generative AI/ LLM courses.
